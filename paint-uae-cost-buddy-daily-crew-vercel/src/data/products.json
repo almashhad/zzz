@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "brand": "Dulux",
+      "name": "Trade Vinyl Matt",
+      "type": "Topcoat",
+      "vs": 0.4,
+      "dft_um": 35,
+      "coverage_m2_per_l": 17
+    },
+    {
+      "brand": "Jotun",
+      "name": "Jotashield Tex Ultra",
+      "type": "Topcoat",
+      "vs": 0.5,
+      "dft_um": 100,
+      "coverage_m2_per_l": 6
+    },
+    {
+      "brand": "Nippon",
+      "name": "Matex",
+      "type": "Topcoat",
+      "vs": 0.38,
+      "dft_um": 30,
+      "coverage_m2_per_l": 12
+    }
+  ]
+}
